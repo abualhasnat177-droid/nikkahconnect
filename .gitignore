@@ -20,6 +20,11 @@ ios/.symlinks/
 ios/Pods/
 ios/Flutter/App.framework
 ios/Flutter/Flutter.framework
+ios/Flutter/Generated.xcconfig
+ios/ephemeral/
+ios/Flutter/flutter_export_environment.sh
+ios/Packages/
+ios/.packages
 
 # Logs
 *.log
