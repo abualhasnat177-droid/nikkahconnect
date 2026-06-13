@@ -1,0 +1,40 @@
+# Flutter
+.dart_tool/
+.packages
+build/
+*.iml
+.idea/
+.metadata
+*.lock
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android (generated)
+android/.gradle/
+android/gradle/wrapper/gradle-wrapper.jar
+android/local.properties
+android/key.properties
+
+# iOS (if added later)
+ios/.symlinks/
+ios/Pods/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+
+# Logs
+*.log
+flutter_out.log
+flutter_err.log
+flutter_server.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pub
+.pub-cache/
+.pub/
